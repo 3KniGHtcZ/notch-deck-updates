@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Notch Deck</title>
+    <description>Automatic builds from main</description>
+    <language>en</language>
+    <item>
+      <title>0.1.590</title>
+      <pubDate>Tue, 15 Sep 2026 13:58:12 +0000</pubDate>
+      <sparkle:version>590</sparkle:version>
+      <sparkle:shortVersionString>0.1.590</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://3knightcz.github.io/notch-deck-updates/Notch-Deck-590.zip" type="application/octet-stream"
+                 length="3505699" sparkle:edSignature="i7QFHio/J/Xvrto45eCFYrVhnBjiPLo5ye84jwqKUZNlDMVszn55Z9dQ8TLXTZhpbbWh2qTsiSQdU4nWF26yBQ==" />
+    </item>
+  </channel>
+</rss>
