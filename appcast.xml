@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Notch Deck</title>
+    <description>Automatic builds from main</description>
+    <language>en</language>
+    <item>
+      <title>0.1.593</title>
+      <pubDate>Wed, 16 Sep 2026 11:23:31 +0000</pubDate>
+      <sparkle:version>593</sparkle:version>
+      <sparkle:shortVersionString>0.1.593</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://3knightcz.github.io/notch-deck-updates/Notch-Deck-593.zip" type="application/octet-stream"
+                 length="3473007" sparkle:edSignature="T+XqcunQWqcC09kc8MQ2yT6iP9M9H0+nLLaV8qU5LRvGMz1k+E2q0eetW1jGu7MfdIwU0tBqWW9IB9RcwWKZDg==" />
+    </item>
+  </channel>
+</rss>
