@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Notch Deck</title>
+    <description>Automatic builds from main</description>
+    <language>en</language>
+    <item>
+      <title>0.1.694</title>
+      <pubDate>Fri, 25 Sep 2026 07:05:16 +0000</pubDate>
+      <sparkle:version>694</sparkle:version>
+      <sparkle:shortVersionString>0.1.694</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://3knightcz.github.io/notch-deck-updates/Notch-Deck-694.zip" type="application/octet-stream"
+                 length="3661050" sparkle:edSignature="eRSKuQW++cKtcY6hCRhDskoGhJTmcAe09XN7luJNUT8mhk237syzj5erY72Epcah/RrCZXNInFs/CexMFP/BAw==" />
+    </item>
+  </channel>
+</rss>
