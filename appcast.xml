@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Notch Deck</title>
+    <description>Automatic builds from main</description>
+    <language>en</language>
+    <item>
+      <title>0.1.733</title>
+      <pubDate>Fri, 02 Oct 2026 15:59:38 +0000</pubDate>
+      <sparkle:version>733</sparkle:version>
+      <sparkle:shortVersionString>0.1.733</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://3knightcz.github.io/notch-deck-updates/Notch-Deck-733.zip" type="application/octet-stream"
+                 length="3984085" sparkle:edSignature="lDSn6ByquTx09X7f1qr58f0Zi8VOcokr+BPsmAbmpTbDJGI36HGkV8hf5t/LZDByvl1iIBHUquQw7Z5YdhcaCw==" />
+    </item>
+  </channel>
+</rss>
