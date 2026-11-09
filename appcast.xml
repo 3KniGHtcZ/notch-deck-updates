@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Notch Deck</title>
+    <description>Automatic builds from main</description>
+    <language>en</language>
+    <item>
+      <title>0.1.1013</title>
+      <pubDate>Mon, 09 Nov 2026 16:21:53 +0000</pubDate>
+      <sparkle:version>1013</sparkle:version>
+      <sparkle:shortVersionString>0.1.1013</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://3knightcz.github.io/notch-deck-updates/Notch-Deck-1013.zip" type="application/octet-stream"
+                 length="5634866" sparkle:edSignature="kZDcpA3u3+rLc0iDgvv/MNo43vm37SkCgxybHPl/pHwRQiVx331JZDu/Cv3tAIIOA0U1oX6BfCdNXEDQoGMYDw==" />
+    </item>
+  </channel>
+</rss>
